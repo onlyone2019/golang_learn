@@ -14,7 +14,7 @@ type Computer struct {
 type Mobile struct {
 }
 
-func (c Computer) read() { //方法类型也可以是指针类型
+func (c Computer) read() { //接收者类型也可以是指针类型
 	fmt.Printf("computer read...\n")
 }
 

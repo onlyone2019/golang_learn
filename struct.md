@@ -45,3 +45,6 @@ r1.name = "r1"
 r1.dog.name = "kate"
 fmt.Printf("r1: %v\n", r1) //r1: {r1 {kate}}
 ```
+
+
+[本节示例](https://github.com/onlyone2019/golang_learn/blob/master/struct.go)

@@ -5,6 +5,8 @@
 所以，后defer的先执行
 一般用于数据库连接关闭、文件关闭等操作
 
+[本节示例](https://github.com/onlyone2019/golang_learn/blob/master/defer.go)
+
 ```go
 fmt.Printf("step1\n")
 defer fmt.Printf("step2\n")
