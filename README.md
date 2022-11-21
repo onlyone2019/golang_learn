@@ -58,3 +58,12 @@
 本次golang基础语法学习先到这，还有一些标准库的操作没有学习，这个留到有需要再去官方文档学习。接下来尝试去做几个项目，在项目实践中学习。
                     
 —— 小生不才 2022年11月17日 于长沙 
+
+
+## 练手小项目
+
+[输出执行命令时 用户给的参数](https://github.com/onlyone2019/golang_learn/blob/master/miniProjects/osArgs/main.go)
+
+[打印用户输入参数，练习输入输出](https://github.com/onlyone2019/golang_learn/blob/master/miniProjects/cli/cli_main.go)
+
+[TCP端口扫描工具](https://github.com/onlyone2019/golang_learn/blob/master/miniProjects/tcpPortScanner)
