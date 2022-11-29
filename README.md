@@ -28,7 +28,7 @@
 
 [defer语句](https://github.com/onlyone2019/golang_learn/blob/master/defer.md)
 
-[结构体](https://github.com/onlyone2019/golang_learn/blob/master/结构体.md)
+[结构体](https://github.com/onlyone2019/golang_learn/blob/master/struct.md)
 
 [map](https://github.com/onlyone2019/golang_learn/blob/master/map.md)
 
